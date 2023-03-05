@@ -1,0 +1,13 @@
+Django
+django-allauth
+django-filter
+django-debug-toolbar
+django-extensions
+django-import-export
+django-storages
+djangorestframework
+ipykernel
+ipython
+requests
+uwsgi
+pymysql

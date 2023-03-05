@@ -1,0 +1,10 @@
+.env
+*/.env
+.DS_Store
+*/.DS_Store
+src/media/*
+src/static/*
+logs
+logs/*
+__pycache__
+*/__pycache__
